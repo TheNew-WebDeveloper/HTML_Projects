@@ -5,5 +5,7 @@ Styling will be addressed in a later project.
 
 
 Project Name :Single-Page CV
+
 Description :Create a single-page HTML CV to showcase your career history
+
 Source : https://roadmap.sh/projects/single-page-cv
